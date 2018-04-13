@@ -1,0 +1,3 @@
+# Hello-Dennis
+My first GitHub Repository designed for both learning and experimentation. I plan to have repositories for web, writing, business, and
+such. I welcome your input and will seek our your expertise often. Best to all...
